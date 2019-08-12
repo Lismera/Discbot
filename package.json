@@ -1,0 +1,11 @@
+{
+  "name": "autism-bot",
+  "version": "1.0.0",
+  "description": "Count autism points in games",
+  "main": "bot.js",
+  "author": "Ana's first try to do something useful",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
